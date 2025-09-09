@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* @author Gurpreet Singh
+ * @verizon final
+ * @Description This app provides the user with a way to calculate the loan for residential or commercial real estate 
+ */
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

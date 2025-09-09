@@ -131,7 +131,7 @@
             this.tableLayoutPanel3.Name = "tableLayoutPanel3";
             this.tableLayoutPanel3.RowCount = 1;
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(884, 213);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(884, 321);
             this.tableLayoutPanel3.TabIndex = 2;
             // 
             // dataGridView1
@@ -142,7 +142,7 @@
             this.dataGridView1.Margin = new System.Windows.Forms.Padding(0, 0, 10, 10);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowTemplate.Height = 25;
-            this.dataGridView1.Size = new System.Drawing.Size(624, 203);
+            this.dataGridView1.Size = new System.Drawing.Size(624, 311);
             this.dataGridView1.TabIndex = 0;
             // 
             // chart1
